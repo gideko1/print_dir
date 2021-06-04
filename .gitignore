@@ -1,0 +1,6 @@
+.idea/
+venv/
+build/
+dist/
+print_dir.egg-info/
+print_dir/__pycache__
